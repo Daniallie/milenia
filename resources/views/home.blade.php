@@ -64,7 +64,7 @@
                 <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0 p-2">
                         <div class="col-md-4">
-                        <img src="/image/airplane.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="../public/image/airplane.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -81,7 +81,7 @@
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0 p-2">
                         <div class="col-md-4">
-                        <img src="/image/ocean.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="../public/image/ocean.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -97,7 +97,7 @@
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0 p-2">
                         <div class="col-md-4">
-                        <img src="/image/roadway.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="../public/image/roadway.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -113,7 +113,7 @@
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0 p-2">
                         <div class="col-md-4">
-                        <img src="/image/railway.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="../public/image/railway.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -132,7 +132,7 @@
             <div class="card mb-3" style="max-width: 540px;">
                     <div class="row g-0 p-2">
                         <div class="col-md-4">
-                        <img src="/image/custom.jpg" class="img-fluid rounded-start" alt="...">
+                        <img src="../public/image/custom.jpg" class="img-fluid rounded-start" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -161,7 +161,7 @@
             <div class="row d-flex justify-content-around p-5 text-center">
                 <div class="col-12 col-lg-4" data-aos="zoom-in-down" data-aos-duration="1000">
                     <div class="card" style="width: 18rem;">
-                        <img src="/image/service.jpg" class="card-img-top" alt="...">
+                        <img src="../public/image/service.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title text-warning">SERVICE</h5>
                             <p class="card-text text-dark">We create a personal touch to all parties- be it cargo owners, agents, or consignees. We are at your service.</p>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="col-12 col-lg-4" data-aos="zoom-in-down" data-aos-duration="2000" >
                     <div class="card" style="width: 18rem;">
-                            <img src="/image/sincerity.jpg" class="card-img-top" alt="...">
+                            <img src="../public/image/sincerity.jpg" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title text-warning">SINCERITY</h5>
                                 <p class="card-text text-dark">We do everything from the heart. We want to make things simple and easy for you, and your company.</p>
@@ -181,7 +181,7 @@
                 </div>
                 <div class="col-12 col-lg-4" data-aos="zoom-in-down" data-aos-duration="3000">
                     <div class="card" style="width: 18rem;">
-                        <img src="/image/security.jpg" class="card-img-top" alt="...">
+                        <img src="../public/image/security.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title text-warning">SECURITY</h5>
                             <p class="card-text text-dark">We want to make the world a safer place. We want to make sure your shipments are safe; whilst adhering to shipment safety laws, all around the world.</p>
@@ -203,13 +203,13 @@
                 <div class="vertikal"></div>
             </div>
             <div class="col-12 col-lg-2">
-                <img src="/image/logo-1-1.png" alt="">
+                <img src="../public/image/logo-1-1.png" alt="">
             </div>
             <div class="col-12 col-lg-2">
-                <img src="/image/logo-2.png" alt="">
+                <img src="../public/image/logo-2.png" alt="">
             </div>
             <div class="col-12 col-lg-2">
-                <img src="/image/logo-3-1.png" alt="">
+                <img src="../public/image/logo-3-1.png" alt="">
             </div>
         </div>
     </div>
