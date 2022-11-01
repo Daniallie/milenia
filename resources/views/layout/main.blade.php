@@ -10,6 +10,20 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}">
     <style>
+
+      .content {
+        
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+    .value {
+  font-size: 50px;
+  display: block;
+  font-weight: bold;
+  color: #fff;
+}
 .cover {
     min-height: 100vh;
     position: relative;
@@ -205,6 +219,31 @@
       const slider = event.parentNode.children[1]
       slider.prepend(slider.children[slider.children.length - 1])
     }
+</script>
+<script>
+  const counters = document.querySelectorAll('.value');
+const speed = 200;
+
+counters.forEach( counter => {
+   const animate = () => {
+      const value = +counter.getAttribute('akhi');
+      const data = +counter.innerText;
+     
+      const time = value / speed;
+     if(data < value) {
+          counter.innerText = Math.ceil(data + time);
+          setTimeout(animate, 1);
+        }else{
+          counter.innerText = value;
+        }
+     
+   }
+   
+   animate();
+});
+
+
+
 </script>
 </body>
 </html>

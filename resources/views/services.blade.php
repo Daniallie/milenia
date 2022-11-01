@@ -138,4 +138,117 @@ goods with human touch.</p>
             
         </div>
     </div>
+
+    <div class="container-fluid bg-warning p-3">
+        <div class="row text-center">
+            <h2>OUR SHIPMENTS</h2>
+        </div>
+        <div class="row text-center">
+            <div class="col-12 col-lg-3">
+                <img src="/image/icon-truck.png" alt="">
+                <div class="content">
+                    <div class="value" akhi="1455654">0</div>
+                    
+                </div>
+                <h5>TRIPS(TRUCK)</h5>
+            </div>
+            <div class="col-12 col-lg-3">
+                
+                <img src="/image/icon-plane.png" alt="">
+                <div class="content">
+                    <div class="value" akhi="89000000">0</div>
+                    
+                </div>
+                <h5>TONS(PLANE)</h5>
+            
+            </div>
+            <div class="col-12 col-lg-3">
+                <img src="/image/icon-ship.png" alt="">
+                <div class="content">
+                    <div class="value" akhi="257000">0</div>
+                    
+                </div>
+                <h5>TEUs(SHIP)</h5>
+            </div>
+            <div class="col-12 col-lg-3">
+                <img src="/image/icon-people.png" alt="">
+                <div class="content">
+                    <div class="value" akhi="85">0</div>
+                    
+                </div>
+                <h5>TONS(PLANE)</h5>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <br>
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6">
+                <h1>OCEAN</h1>
+                <h5>
+                    With the support from multiple liners, we are able to maximize on serving our customers. Giving you the schedule to your needs, being adjustable to meet both parties requirements. An efficient way to transport large loads of goods from port to port. With over 80% of cargoes all around the world carried by sea, this mode is the most-used method to carry goods.
+                </h5>
+
+            </div>
+            <div class="col-12 col-lg-6">
+                <img src="/image/service-ocean.jpg" style="width:75vh;" alt="">
+            </div>
+        </div>
+        <br>
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6">
+                <img src="/image/service-air.jpg" style="width:75vh;" alt="">
+            </div>
+            <div class="col-12 col-lg-6">
+                
+                <h1>AIR FREIGHT</h1>
+                <h5>
+                    Transportation of goods by aircraft. THREE-SS is an agent dedicated to serve customers to be able to directly communicate with carriers to better suit the speed that they offer for you to deliver your goods. Mostly used by clients that serve for express shipments around the globe. A better choice for goods that are perishable or urgent.
+                </h5>
+
+            </div>
+        </div>
+        <br>
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6">
+                <h1>TRUCK</h1>
+                <h5>
+                    Mostly known as haulage, it is a mode of transport that most people are familiar with using the same road as everyone else to get your PORT-DOOR or DOOR-PORT segments transported. With different types of truck to better fit the volume of the items that will be transported.
+                </h5>
+
+            </div>
+            <div class="col-12 col-lg-6">
+                <img src="/image/service-truck.jpg" style="width:75vh;" alt="">
+            </div>
+        </div>
+        <br>
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6">
+                <img src="/image/service-rail.jpg" style="width:75vh;" alt="">
+            </div>
+            <div class="col-12 col-lg-6">
+                
+                <h1>RAIL</h1>
+                <h5>
+                    Another mode of land transport, being able to avoid traffic and with less risk with a designated route to be passed through to the destinations with stations available nearby or such. With being more time efficient on the go, it is still used abundantly for cargoes even if passengers are present.
+                </h5>
+
+            </div>
+        </div>
+        <br>
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6">
+                <h1>CUSTOMS CLEARANCE</h1>
+                <h5>
+                    Our team consists of a few individuals with the ability to suit your customs needs. Educate and direct you for what could be done or options to choose from within our government’s regulation. Following the government guidelines, stay up-to-date upon their rules and regulations to better serve our customers to get their cargo through customs.
+                </h5>
+
+            </div>
+            <div class="col-12 col-lg-6">
+                <img src="/image/service-custom.jpg" style="width:75vh;" alt="">
+            </div>
+        </div>
+        <br>
+    </div>
 @endsection
