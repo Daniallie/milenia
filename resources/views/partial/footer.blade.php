@@ -1,9 +1,9 @@
 <!--- footer area --->
-    <div class="container-fluid text-bg-primary text-warning align-items-center px-5 py-3">
+    <div class="container-fluid bg-dark text-warning align-items-center px-5 py-3">
         <div class="row">
             <div class="col-12 col-lg-6">
                 <h3>
-                    PT. MILENIA ARMADA EKSPRES
+                    PT. MILENIA ARMADA EKSPRESS
                 </h3>
                 <p>
                     Since 1999, MAX has connected businesses through logistics, and over the years, we are confident that we can help you and your business with logistics advice, and competitive rates in Indonesia.
