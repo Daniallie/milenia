@@ -176,7 +176,7 @@ goods with human touch.</p>
                     <div class="value" akhi="85">0</div>
                     
                 </div>
-                <h5>TONS(PLANE)</h5>
+                <h5>EMPLOYEE(PERSON)</h5>
             </div>
         </div>
     </div>
