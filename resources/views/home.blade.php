@@ -147,7 +147,9 @@
 
         </div>
         <div class="row">
-            <h5>Our client(s) interest in our top priority to be able to serve well. We are mindful of building a healthy relationship to our customers that we sometimes would like to refer to them as partners. We also connect heavily to our suppliers, vendors, affiliates, and agents to better suit to serve our partners</h5>
+            <h5>Our clients have trusted in our reability, variety of freight
+            options, and our best effort in giving good service, as
+            an established freight forwarding company.</h5>
         </div>
     </div>
 

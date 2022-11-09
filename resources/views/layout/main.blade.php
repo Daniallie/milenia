@@ -29,7 +29,7 @@
     position: relative;
     color: white;
     background-size: cover;
-    background-image: url("{{ asset("image/3ss-office.jpg") }}");
+    background-image: url("{{ asset("image/homepage.png") }}");
 }
 
 #content {

@@ -61,30 +61,34 @@
 </div>
 <div class="container">
     <div class="row">
-        <img src="/image/3ss-office.jpg" alt="">
+        <img src="{{ URL::asset('/image/homepage.png') }}" alt="">
     </div>
 </div>
 <div class="container">
     <div class="row p-4">
         <h4>
-            PT. TIGA SEKAWAN SUKSES EKSPRES also known as THREE-SS, was founded in the year 1999, Jakarta, Indonesia. To service the intensely growing need of reliable export and import air-logistics-service providers in the archipelago. Since its foundation, we have made significant contributions to the air-cargo transportation sector and have been recognized by world-class airlines such as: Qatar, Etihad, Thai Airways, Cathay Pacific, and Singapore Airlines.
+            PT. Milenia Armada Ekspres is an internasional air and sea
+            freight forwarding agency, that was established in 1999.
+            Our company has been trusted by national and
+            international clients, from regions of Asia Pacific, Europe,
+            United States, and Africa.
+
         </h4>
     </div>
     <div class="row p-4">
         <h4>
-            With having to expand service in the container shipping business both internationally and domestically. Equipped with integrated service, we have been able to service any cargo from far reaches of the world, to any remote island in the Indonesian archipelago. Internationally, “THREE-SS” has been an active and exclusive partner of the “Global Alliance Corporation” to further expand its network of international businesses. In addition, we have always been a promoter of trade, both within and outside of Indonesia.
+            Our clients have trusted in our reability, variety of freight
+            options, and our best effort in giving good service, as
+            an established freight forwarding company.
         </h4>
     </div>
     <div class="row p-4">
         <h4>
-            “THREE-SS” is also an exclusive agent of our national flagship carrier, Garuda Indonesia. As such, we are able to offer diverse logistics services to better suit the personalized needs of our customers.
+            PT. Milenia Armada Ekspres quarantees the best quality
+            in service and delivery at the best conditions
         </h4>
     </div>
-    <div class="row p-4">
-        <h4>
-            Through its series of successes. PT. Tiga Sekawan Sukses Ekspres has never forgo of its traditional roots and company values: humbleness, honesty, and logistics with a personal touch.
-        </h4>
-    </div>
+    
     
 </div>
 <div class="container">

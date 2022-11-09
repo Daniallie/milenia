@@ -24,18 +24,18 @@
                     <br>
                     Telp. +62 21 6602525
                     <br>
-                    Instagram : @milenia
+                    {{-- Instagram : @milenia --}}
                 </p>
                 
             </div>
         </div>
-        <div class="row text-dark">
+        <div class="row text-white ">
             <div class="col-12 col-lg-6">
                 Copyright © 2022 PT Milenia Armada Ekspres
             </div>
             <div class="col-12 col-lg-2"></div>
             <div class="col-12 col-lg-4">
-                Powered by DuniaFreelancer.id
+                Powered by <a target="_blank" href="https://www.duniafreelancer.com">DuniaFreelancer.com</a> 
             </div>
         </div>
         <div class="row">
